@@ -56,7 +56,7 @@ I am constantly learning new technologies, exploring innovative tools, and shari
 
 ## Let’s Connect
 - GitHub: [https://github.com/u-ashu]
-- LinkedIn: [https://linkedin.com/in/AshutoshTiwari]
+- LinkedIn: [https://linkedin.com/in/uashu]
 - Email: your-ashuofficial05@gmail.com
 
 I love collaborating on projects, learning new technologies, and building AI-powered applications that can help people and inspire innovation.
